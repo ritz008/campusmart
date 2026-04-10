@@ -109,4 +109,5 @@ ollama run llama3.2
 ## 👨‍💻 Developed By
 
 **Your Name** — Ritu Agarwal 
+**College:** Madan Mohan Malaviya University of Technology 
 **Branch:** Computer Science and Engineering  
